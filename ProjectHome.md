@@ -1,0 +1,1 @@
+Scanner automation wrapped as an ActiveX component for easy integration into existing web-based applications and desktop applications as well.
